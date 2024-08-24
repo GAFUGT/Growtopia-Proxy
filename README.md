@@ -1,7 +1,7 @@
 # Growtopia-Proxy
 This is a cracked version of the Silviozas-Premium-Proxy, that doesn't require a personal key
 
-⚡ Works in Growtopia V4.63 ⚡
+⚡ Works in Growtopia V4.64 ⚡
 
 ## How to Download and Install
 
@@ -124,6 +124,6 @@ step 2️⃣ --> Open Growtopia
 ⋅ Fixed Issues With /cd /dd /dropall /worlds /wrench etc.
 
 
-// 07.08.24
+// 24.08.24
 
- ⚡ Updated for Growtopia V4.63 ⚡
+ ⚡ Updated for Growtopia V4.64 ⚡
